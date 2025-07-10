@@ -5,6 +5,5 @@ This repository showcases my hands-on experience with SQL through a variety of e
 
 
 This portfolio includes:
-- SQL practice problems solved from platforms such as:
-  - [HackerRank] (https://www.hackerrank.com/)
+SQL practice problems solved from a platform:
   - [LeetCode] (https://leetcode.com/)
